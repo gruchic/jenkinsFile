@@ -1,0 +1,19 @@
+{
+  "name": "jenkins-temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gruchic/jenkinsFile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gruchic/jenkinsFile/issues"
+  },
+  "homepage": "https://github.com/gruchic/jenkinsFile#readme"
+}
